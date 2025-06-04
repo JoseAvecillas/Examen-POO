@@ -5,9 +5,16 @@
 1. Jose Avecillas
 2. Joey Diaz
 
+
+
 # Sistema de Gestión de Compras ERP (Java)
 
 Este proyecto es una aplicación de consola en Java que simula un sistema básico ERP (Enterprise Resource Planning) enfocado en la gestión de **proveedores**, **productos** y **solicitudes de compra**.
+
+
+## Grafico UML
+
+![Figuras](ImagenUML.jpg)
 
 ## Estructura del Proyecto
 
